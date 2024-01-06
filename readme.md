@@ -1,0 +1,1 @@
+Este é um projeto desenvolvido em um Curso de JavaScript da plataforma LinkedIn Learning onde uso método addEventListener para realizalo 

@@ -1,0 +1,53 @@
+body{
+    background-color: whitesmoke;
+
+}
+.circle {
+    position: absolute;
+    top: 1px;
+    width: 100px;
+    height: 100px;
+    color: transparent;
+    border: 2px solid red;
+    border-radius: 50%;
+}
+.circle2 {
+    position: absolute;
+    top: 1px;
+    width: 100px;
+    height: 100px;
+    color: transparent;
+    border: 2px solid purple;
+    border-radius: 50%;
+}
+header{
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background-color: #333;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 600px;
+    color: white;
+}
+footer li{
+    display: inline;
+    list-style: none;
+    align-items: center;
+    padding: 10px;
+    color: white;
+}
+i{
+    padding: 10px;
+    background-color: aliceblue;
+    text-align: center;
+}
+i:hover{
+    color: purple;
+    background-color: black;
+}
